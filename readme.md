@@ -9,12 +9,14 @@
 
 # Docs
 
+- [Docs](#docs)
 - [Example](#example)
 - [Specifying Icons](#specifying-icons)
 - [Themed Icons](#themed-icons)
 - [Icons Per Line](#icons-per-line)
 - [Centering Icons](#centering-icons)
 - [Icons List](#icons-list)
+  - [💖 Support the Project](#-support-the-project)
 
 # Example
 
@@ -204,6 +206,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `lua`        |      <img src="./icons/Lua-Dark.svg" width="48">      |
 |        `md`        |   <img src="./icons/Markdown-Dark.svg" width="48">    |
 |     `mastodon`     |   <img src="./icons/Mastodon-Dark.svg" width="48">    |
+|     `mariadb`      |    <img src="./icons/MariaDB-Dark.svg" width="48">    |
 |    `materialui`    |  <img src="./icons/MaterialUI-Dark.svg" width="48">   |
 |      `matlab`      |    <img src="./icons/Matlab-Dark.svg" width="48">     |
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
@@ -321,6 +324,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `yarn`       |     <img src="./icons/Yarn-Dark.svg" width="48">      |
 |       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
+
 
 ---
 
