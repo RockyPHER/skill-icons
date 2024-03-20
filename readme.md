@@ -1,3 +1,10 @@
+# THIS IS A FORK
+
+I forked the official version to add icons that i didnt find in the official repo;
+Please make sure to support the official creators.
+
+---
+
 <p align="center"><img align="center" width="280" src="./.github/text-logo.svg#gh-dark-mode-only"/></p>
 <p align="center"><img align="center" width="280" src="./.github/text-logo-light.svg#gh-light-mode-only"/></p>
 <h3 align="center">Showcase your skills on your GitHub or resumé with ease!</h3>
@@ -9,6 +16,7 @@
 
 # Docs
 
+- [THIS IS A FORK](#this-is-a-fork)
 - [Docs](#docs)
 - [Example](#example)
 - [Specifying Icons](#specifying-icons)
